@@ -1,5 +1,5 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-A series of 5 courses offered by deeplearning.ai
+<i>A series of 5 courses offered by deeplearning.ai</i>
 
 #### Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
